@@ -24,5 +24,3 @@ if val == "C":
     print(f"Det blir {fahrenheit} grader Fahrenheit.")
 
 """
-
-# ada
