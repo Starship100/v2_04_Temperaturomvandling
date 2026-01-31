@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79026a17-6c12-4391-ac96-9d578448e267" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Vecka2_Temperaturomvandling.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Vecka2_Temperaturomvandling.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="79026a17-6c12-4391-ac96-9d578448e267" name="Changes" comment="cloned" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,12 +59,25 @@
       <option name="presentableId" value="Default" />
       <updated>1769114136699</updated>
       <workItem from="1769114137874" duration="888000" />
-      <workItem from="1769880932911" duration="341000" />
+      <workItem from="1769880932911" duration="640000" />
     </task>
+    <task id="LOCAL-00001" summary="cloned">
+      <option name="closed" value="true" />
+      <created>1769881504101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769881504101</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cloned" />
+    <option name="LAST_COMMIT_MESSAGE" value="cloned" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Vecka2_Temperaturomvandling$main.coverage" NAME="main Coverage Results" MODIFIED="1769114996729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
