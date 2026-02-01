@@ -11,6 +11,12 @@ if val == "c":
     celsius = float(input("Skriv in temperatur i grader Celsius: "))
     fahrenheit = 1.8 * celsius + 32
     print("Det blir ", fahrenheit, "grader Fahrenheit.")
+
+    if celsius < 10:
+        print("Ta på dig vinterkläder!")
+    elif celsius >= 20:
+        print("Packa badkläder!")
+
 elif val == "f":
     fahrenheit = float(input("Skriv in temperatur i grader Fahrenheit: "))
     celsius = (fahrenheit - 32) / 1.8
@@ -18,5 +24,5 @@ elif val == "f":
 
     if celsius < 10:
         print("Ta på dig vinterkläder!")
-    elif celsius > 20:
+    elif celsius >= 20:
         print("Packa badkläder!")
